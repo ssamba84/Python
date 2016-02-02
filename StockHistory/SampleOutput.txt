@@ -1,0 +1,172 @@
+On 01-Feb-16
+Earnings release scheduled for 
+Company name: Advanced Drainage Systems Inc(wms)
+Company name: Advanced Energy Industries Inc(aeis)
+Company name: Aetna Inc(aet)
+Company name: Aflac Inc(afl)
+Company name: Alexandria Real Estate Equities Inc(are)
+Company name: Alphabet Inc(googl)
+Company name: American Capital Agency Corp(agnc)
+Company name: Amerigas Partners LP(apu)
+Company name: Anadarko Petroleum Corp(apc)
+Company name: Anadolu Cam Sanayii AS(anacm.is)
+Company name: ASB Bancorp Inc(asbb)
+Company name: Ascent Solar Technologies Inc(asti)
+Company name: Aviat Networks Inc(avnw)
+Company name: Bancorp Inc(tbbk)
+Company name: Bankia SA(bkia.mc)
+Company name: Barrett Business Services Inc(bbsi)
+Company name: Bay Bancorp Inc(bybk)
+Company name: BNCCorp Inc(bncc)
+Company name: Cabot Corp(cbt)
+Company name: Campus Crest Communities Inc(ccg)
+Company name: Cardinal Health Inc(cah)
+Company name: CEAT Ltd(ceatltd.ns)
+Company name: Changyou.Com Ltd(cyou)
+Company name: Cielo SA(ciel3.sa)
+Company name: Conviviality PLC(cvr.l)
+Company name: Credit Acceptance Corp(cacc)
+Company name: CSRA Inc(csra)
+Company name: Dominion Midstream Partners LP(dm)
+Company name: Dominion Resources Inc(d)
+Company name: Eastgroup Properties Inc(egp)
+Company name: Fabrinet(fn)
+Company name: Firan Technology Group Corp(ftg.to)
+Company name: Fortress Transportation and Infrastructure Investors LLC(ftai)
+Company name: General Growth Properties Inc(ggp)
+Company name: GL Ltd(b16.si)
+Company name: Grivalia Properties REIC(griv.at)
+Company name: GuocoLand Ltd(f17.si)
+Company name: Haemonetics Corp(hae)
+Company name: Hain Celestial Group Inc(hain)
+Company name: Hamburger Hafen und Logistik AG(hhfa.de)
+Company name: Hawkins Inc(hwkn)
+Company name: Heritage Oaks Bancorp(heop)
+Company name: Hill-Rom Holdings Inc(hrc)
+Company name: Integrated Device Technology Inc(idti)
+Company name: Interactive Intelligence Group Inc(inin)
+Company name: Julius Baer Gruppe AG(baer.vx)
+Company name: Kilroy Realty Corp(krc)
+Company name: Leggett &amp; Platt Inc(leg)
+Company name: LightPath Technologies Inc(lpth)
+Company name: Luminex Corp(lmnx)
+Company name: Marlin Business Services Corp(mrln)
+Company name: Mattel Inc(mat)
+Company name: MediaTek Inc(2454.tw)
+Company name: Memorial Resource Development Corp(mrd)
+Company name: Modetour Network Inc(080160.kq)
+Company name: Mueller Industries Inc(mli)
+Company name: Murgitroyd Group PLC(mur.l)
+Company name: Nagacorp Ltd(3918.hk)
+Company name: Nam Tai Property Inc(ntp)
+Company name: NAPCO Security Technologies Inc(nssc)
+Company name: Nemetschek AG(nem.de)
+Company name: NewMarket Corp(neu)
+Company name: Northeast Bancorp(nbn)
+Company name: Northrim BanCorp Inc(nrim)
+Company name: OFG Bancorp(ofg)
+Company name: Old National Bancorp(onb)
+Company name: OUE Hospitality Trust(sk7.si)
+Company name: Pacific Mercantile Bancorp(pmbc)
+Company name: Plantronics Inc(plt)
+Company name: Principal Financial Group Inc(pfg)
+Company name: QCR Holdings Inc(qcrh)
+Company name: Qihoo 360 Technology Co Ltd(qihu)
+Company name: Rayonier Advanced Materials Inc(ryam)
+Company name: RealD Inc(rld)
+Company name: Rent-A-Center Inc(rcii)
+Company name: RGC Resources Inc(rgco)
+Company name: RM PLC(rm.l)
+Company name: Roper Technologies Inc(rop)
+Company name: Rudolph Technologies Inc(rtec)
+Company name: Sangui Biotech International Inc(sgbi)
+Company name: Sartorius AG(srt.f)
+Company name: ScripsAmerica Inc(scrc)
+Company name: Select Bancorp Inc(slct)
+Company name: SIA Engineering Company Ltd(s59.si)
+Company name: SmartFinancial Inc(smbk)
+Company name: Sohu.Com Inc(sohu)
+Company name: SolarWinds Inc(swi)
+Company name: Sparton Corp(spa)
+Company name: StanCorp Financial Group Inc(sfg)
+Company name: Sun Bancorp Inc(snbc)
+Company name: Sysco Corp(syy)
+Company name: Tegna Inc(tgna)
+Company name: Tesoro Corp(tso)
+Company name: Tesoro Logistics LP(tllp)
+Company name: Travelzoo Inc(tzoo)
+Company name: Turkiye Is Bankasi AS(isctr.is)
+Company name: UGI Corp(ugi)
+Company name: United Community Bancorp Inc(ucba)
+Company name: WeMade Entertainment Co Ltd(112040.kq)
+Company name: West Corp(wstc)
+Company name: Wynn Resorts Ltd(wynn)
+Company name: XL Axiata Tbk PT(excl.jk)
+Company name: Zorlu Enerji Elektrik Uretim AS(zoren.is)
+
+Advanced Drainage Systems Inc(wms)
+Retrieving earnings release dates from Zacks
+Retrieved  4 earnings release dates
+Earnings release on  2015-05-11 : closing price : 27.469999
+2015-05-12 : day Open  28.549999  day Close  29.77 Max swing is % 8.37
+Earnings release on  2015-02-04 : closing price : 24.540001
+2015-02-05 : day Open  24.120001  day Close  23.98 Max swing is % 2.28
+Earnings release on  2014-11-04 : closing price : 20.950001
+2014-11-05 : day Open  21.299999  day Close  21.610001 Max swing is % 3.15
+Earnings release on  2014-09-02 : closing price : 19.01
+2014-09-03 : day Open  18.60  day Close  19.139999 Max swing is % 2.16
+Average swing % over  4  earnings is  3.99
+
+Advanced Energy Industries Inc(aeis)
+Retrieving earnings release dates from Zacks
+Retrieved  26 earnings release dates
+Earnings release on  2015-11-02 : closing price : 28.50
+2015-11-03 : day Open  28.24  day Close  29.34 Max swing is % 2.95
+Earnings release on  2015-08-03 : closing price : 25.709999
+2015-08-04 : day Open  25.459999  day Close  24.950001 Max swing is % 2.96
+Earnings release on  2015-05-04 : closing price : 24.889999
+2015-05-05 : day Open  25.08  day Close  24.57 Max swing is % 1.29
+Earnings release on  2015-02-02 : closing price : 24.48
+2015-02-03 : day Open  25.200001  day Close  25.42 Max swing is % 3.84
+Earnings release on  2014-11-03 : closing price : 19.99
+2014-11-04 : day Open  20.969999  day Close  20.530001 Max swing is % 4.9
+Earnings release on  2014-08-04 : closing price : 16.870001
+2014-08-05 : day Open  16.50  day Close  17.25 Max swing is % 2.25
+Earnings release on  2014-05-05 : closing price : 21.389999
+2014-05-06 : day Open  18.92  day Close  16.870001 Max swing is % 21.13
+Earnings release on  2014-02-03 : closing price : 26.559999
+2014-02-04 : day Open  27.200001  day Close  26.68 Max swing is % 2.41
+Earnings release on  2013-11-04 : closing price : 20.65
+2013-11-05 : day Open  21.75  day Close  25.969999 Max swing is % 25.76
+Earnings release on  2013-07-29 : closing price : 21.00
+2013-07-30 : day Open  22.889999  day Close  21.24 Max swing is % 9.0
+Earnings release on  2013-04-29 : closing price : 18.469999
+2013-04-30 : day Open  18.34  day Close  16.98 Max swing is % 8.07
+Earnings release on  2013-02-04 : closing price : 15.15
+2013-02-05 : day Open  16.00  day Close  15.90 Max swing is % 5.61
+Earnings release on  2012-07-30 : closing price : 11.85
+2012-07-31 : day Open  11.77  day Close  12.32 Max swing is % 3.97
+Earnings release on  2012-04-30 : closing price : 11.94
+2012-05-01 : day Open  12.80  day Close  13.38 Max swing is % 12.06
+Earnings release on  2012-01-30 : closing price : 11.13
+2012-01-31 : day Open  11.12  day Close  10.64 Max swing is % 4.4
+Earnings release on  2011-11-01 : closing price : 8.98
+2011-11-02 : day Open  8.55  day Close  9.01 Max swing is % 4.79
+Earnings release on  2011-07-25 : closing price : 12.11
+2011-07-26 : day Open  11.55  day Close  11.40 Max swing is % 5.86
+Earnings release on  2011-05-02 : closing price : 13.51
+2011-05-03 : day Open  15.16  day Close  14.85 Max swing is % 12.21
+Earnings release on  2011-02-14 : closing price : 15.79
+2011-02-15 : day Open  15.84  day Close  14.52 Max swing is % 8.04
+Earnings release on  2010-07-20 : closing price : 13.85
+2010-07-21 : day Open  13.96  day Close  13.81 Max swing is % 0.79
+Earnings release on  2010-04-22 : closing price : 17.43
+2010-04-23 : day Open  17.299999  day Close  16.42 Max swing is % 5.79
+Earnings release on  2010-02-16 : closing price : 15.65
+Earnings release on  2009-10-27 : closing price : 12.77
+2009-10-28 : day Open  12.77  day Close  12.17 Max swing is % 4.7
+Earnings release on  2009-07-23 : closing price : 11.85
+2009-07-24 : day Open  11.77  day Close  11.44 Max swing is % 3.46
+Average swing % over  26  earnings is  6.01
+..............
+.............
